@@ -1,5 +1,6 @@
 ---
 description: "Use for requests for a 'grouch', 'grouch review', 'blunt review', or honest feedback on code or architecture. Applies a leveled honesty dial for code review and architecture auditing, eliminating sycophantic praise."
+globs: ["**/*"]
 alwaysApply: false
 ---
 # Grouch Protocol (Anti-Sycophancy Code Review)
